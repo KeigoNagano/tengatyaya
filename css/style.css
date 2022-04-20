@@ -95,16 +95,16 @@ li {
   margin-left: 30px;
 }
 .nav-top {
-  color: #ddc748;
+  color: #f1d94f;
 }
 .nav-profile {
   color: #f3c363;
 }
 .nav-graphics {
-  color: #e66245;
+  color: #f77558;
 }
 .nav-contact {
-  color: #dd4242;
+  color: #fb5858;
 }
 .main-nav a:hover {
   color: #21d1e9;
@@ -184,7 +184,7 @@ li {
 /* フォーム */
 .subTitle-contact h2 {
   font-weight: 900;
-  color: #dd4242;
+  color: #fb5858;
 }
 .contact-bg {
   width: 100%;
@@ -340,7 +340,7 @@ td {
 /* graphics */
 .subTitle-graphics h2 {
   font-weight: 900;
-  color: #e66245;
+  color: #f77558;
 }
 .graphics-bg {
   width: 100%;
