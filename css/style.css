@@ -98,7 +98,7 @@ li {
   color: #ddc748;
 }
 .nav-profile {
-  color: #d8a540;
+  color: #f3c363;
 }
 .nav-graphics {
   color: #e66245;
@@ -244,7 +244,7 @@ input[type='submit'] {
 /* profile */
 .subTitle-profile h2 {
   font-weight: 900;
-  color: #c49a46;
+  color: #f3c363;
 }
 .profile-bg {
   width: 100%;
